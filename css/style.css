@@ -11,3 +11,9 @@
     font-size: 25px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+body{
+    background-image: url(../img/fondo1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
